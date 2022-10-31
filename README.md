@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 |![David' github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai&count_private=true&show_icons=true&theme=dracula)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMilai&layout=compact&theme=dracula)](https://github.com/DavidMilai/github-readme-stats)|
 <hr>
 
-| <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks | Stack Over Flow |
-| --------------- | --------------- | 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats)|  
+| <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks |
+| --------------- 
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats) 
 
 <hr/>

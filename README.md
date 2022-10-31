@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![David' github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai&count_private=true&show_icons=true&theme=dracula) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMilai&layout=compact&theme=dracula)](https://github.com/DavidMilai/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixivance)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats)

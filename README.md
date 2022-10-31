@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 | --------------- 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats) 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai)](https://github.com/DavidMilai/github-readme-stats)
+
 <hr/>

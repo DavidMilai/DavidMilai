@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 | <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks |
 | --------------- 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats) 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai)](https://github.com/DavidMilai/github-readme-stats)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats)  
 
 <hr/>

@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![David' github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai&count_private=true&show_icons=true)
+![David' github stats](https://github-readme-stats.vercel.app/api?username=DavidMilai&count_private=true&show_icons=true) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMilai&layout=compact)](https://github.com/DavidMilai/github-readme-stats)

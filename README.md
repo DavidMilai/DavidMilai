@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 | <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks |
 | --------------- 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats)  
-|   View Count |
-| --------------- 
-| <img src="https://profile-counter.glitch.me/{DavidMilai}/count.svg" alt="visitor count" /> 
 
+<samp>View Count</samp>
+<br />
+<img src="https://profile-counter.glitch.me/{DavidMilai}/count.svg" alt="visitor count" />
+  </div>
 
 
 <hr/>

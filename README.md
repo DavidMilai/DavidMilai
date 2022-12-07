@@ -25,4 +25,10 @@ Here are some ideas to get you started:
 | --------------- 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidMilai&theme=dracula)](https://git.io/streak-stats)  
 
+<samp>View Count</samp>
+<br />
+<img src="https://profile-counter.glitch.me/{imhshahdi}/count.svg" alt="visitor count" />
+  </div>
+
+
 <hr/>

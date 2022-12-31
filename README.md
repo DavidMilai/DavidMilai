@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 <br />
 <img src="https://profile-counter.glitch.me/{DavidMilai}/count.svg" alt="visitor count" />
   </div>
-
-
 <hr/>
